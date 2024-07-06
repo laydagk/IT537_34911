@@ -367,7 +367,16 @@ aside .block-4, .block-5 {
     align-items: center;
 }
 
+.bar-wrapper{
+    height: 10px;
+    background-color: purple;
+    border-radius: 10px;
+}
 
+.language{
+    margin-right: 15px;
+    margin-bottom: 0;
+}
 
 .progress-bar {
     width: 100%;
